@@ -1,1 +1,1 @@
-Please download the file [ATAC_2024_SimplifyingSecurity.pdf](simplesecforsmb/ATAC_2024_SimplifyingSecurity.pdf), which is the presentation that was given at ATAC Conference 2024 (8th November 2024) on 'Simplifying Security for Small Business' by Jess Dodson.
+Please download the file [ATAC_2024_SimplifyingSecurity.pdf](/ATAC_2024_SimplifyingSecurity.pdf), which is the presentation that was given at ATAC Conference 2024 (8th November 2024) on 'Simplifying Security for Small Business' by Jess Dodson.
